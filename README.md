@@ -1,2 +1,4 @@
 # Yaml-Parser
-Homebrewed java native YAML parser
+
+YAML parser built for Java leveraging Python's YAML-parsing library.
+
